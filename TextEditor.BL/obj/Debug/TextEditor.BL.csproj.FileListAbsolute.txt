@@ -1,0 +1,9 @@
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.exe.config
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.exe
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojAssemblyReference.cache
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.Properties.Resources.resources
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.GenerateResource.cache
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.exe
+C:\Users\Руслан\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb
